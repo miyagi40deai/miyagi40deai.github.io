@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://miyagi40deai.github.io/sitemap.xml
